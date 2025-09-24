@@ -3,11 +3,12 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "eee:caca_block"
+      "type": "forge:ore_dict",
+      "ore": "forgerojo_log"
     }
   ],
   "result": {
-    "item": "eee:caca",
-    "count": 9
+    "item": "eee:rojo_planks",
+    "count": 4
   }
 }

@@ -7,46 +7,54 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.client.model.ModelLoader;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 
+import net.minecraft.world.IBlockAccess;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.EnumFacing;
 import net.minecraft.item.ItemBlock;
 import net.minecraft.item.Item;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.SoundType;
+import net.minecraft.block.BlockStairs;
 import net.minecraft.block.Block;
 
 import net.mcreator.eee.ElementsEeeMod;
 
 @ElementsEeeMod.ModElement.Tag
-public class BlockCacaBlock extends ElementsEeeMod.ModElement {
-	@GameRegistry.ObjectHolder("eee:caca_block")
+public class BlockRojoStairs extends ElementsEeeMod.ModElement {
+	@GameRegistry.ObjectHolder("eee:rojo_stairs")
 	public static final Block block = null;
-	public BlockCacaBlock(ElementsEeeMod instance) {
-		super(instance, 1);
+	public BlockRojoStairs(ElementsEeeMod instance) {
+		super(instance, 8);
 	}
 
 	@Override
 	public void initElements() {
-		elements.blocks.add(() -> new BlockCustom().setRegistryName("caca_block"));
+		elements.blocks.add(() -> new BlockCustom().setRegistryName("rojo_stairs"));
 		elements.items.add(() -> new ItemBlock(block).setRegistryName(block.getRegistryName()));
 	}
 
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0, new ModelResourceLocation("eee:caca_block", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0, new ModelResourceLocation("eee:rojo_stairs", "inventory"));
 	}
-	public static class BlockCustom extends Block {
+	public static class BlockCustom extends BlockStairs {
 		public BlockCustom() {
-			super(Material.IRON);
-			setUnlocalizedName("caca_block");
-			setSoundType(SoundType.METAL);
-			setHarvestLevel("pickaxe", 2);
-			setHardness(5F);
-			setResistance(10F);
+			super(new Block(Material.WOOD).getDefaultState());
+			setUnlocalizedName("rojo_stairs");
+			setSoundType(SoundType.WOOD);
+			setHardness(3F);
+			setResistance(2F);
 			setLightLevel(0F);
 			setLightOpacity(255);
 			setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
+		}
+
+		@Override
+		public int getFlammability(IBlockAccess world, BlockPos pos, EnumFacing face) {
+			return 5;
 		}
 	}
 }

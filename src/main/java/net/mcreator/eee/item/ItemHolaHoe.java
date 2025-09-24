@@ -24,7 +24,7 @@ public class ItemHolaHoe extends ElementsEeeMod.ModElement {
 	@GameRegistry.ObjectHolder("eee:hola_hoe")
 	public static final Item block = null;
 	public ItemHolaHoe(ElementsEeeMod instance) {
-		super(instance, 32);
+		super(instance, 14);
 	}
 
 	@Override

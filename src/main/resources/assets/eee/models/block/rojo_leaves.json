@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "eee:blocks/rojo_leaves",
+    "particle": "eee:blocks/rojo_leaves"
+  }
+}

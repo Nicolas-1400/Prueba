@@ -24,7 +24,7 @@ public class ItemCacaPickaxe extends ElementsEeeMod.ModElement {
 	@GameRegistry.ObjectHolder("eee:caca_pickaxe")
 	public static final Item block = null;
 	public ItemCacaPickaxe(ElementsEeeMod instance) {
-		super(instance, 7);
+		super(instance, 10);
 	}
 
 	@Override

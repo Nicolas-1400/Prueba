@@ -1,0 +1,33 @@
+{
+  "group": "eee",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "eee:rojo_planks"
+    },
+    "3": {
+      "item": "eee:rojo_planks"
+    },
+    "4": {
+      "item": "eee:rojo_planks"
+    },
+    "6": {
+      "item": "eee:rojo_planks"
+    },
+    "7": {
+      "item": "eee:rojo_planks"
+    },
+    "8": {
+      "item": "eee:rojo_planks"
+    }
+  },
+  "result": {
+    "item": "eee:rojo_stairs",
+    "count": 4
+  }
+}

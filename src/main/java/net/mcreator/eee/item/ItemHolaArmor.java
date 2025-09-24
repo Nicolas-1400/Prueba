@@ -28,7 +28,7 @@ public class ItemHolaArmor extends ElementsEeeMod.ModElement {
 	@GameRegistry.ObjectHolder("eee:hola_armorboots")
 	public static final Item boots = null;
 	public ItemHolaArmor(ElementsEeeMod instance) {
-		super(instance, 38);
+		super(instance, 20);
 	}
 
 	@Override

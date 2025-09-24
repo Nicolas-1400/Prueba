@@ -24,7 +24,7 @@ public class ItemCacaHoe extends ElementsEeeMod.ModElement {
 	@GameRegistry.ObjectHolder("eee:caca_hoe")
 	public static final Item block = null;
 	public ItemCacaHoe(ElementsEeeMod instance) {
-		super(instance, 11);
+		super(instance, 13);
 	}
 
 	@Override

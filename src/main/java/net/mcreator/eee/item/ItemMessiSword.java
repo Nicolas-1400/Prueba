@@ -34,7 +34,7 @@ public class ItemMessiSword extends ElementsEeeMod.ModElement {
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ItemSword(EnumHelper.addToolMaterial("MESSI_SWORD", 2, 250, 6f, -2f, 14)) {
+		elements.items.add(() -> new ItemSword(EnumHelper.addToolMaterial("MESSI_SWORD", 2, 250, 6f, 2f, 14)) {
 			@Override
 			public Multimap<String, AttributeModifier> getItemAttributeModifiers(EntityEquipmentSlot slot) {
 				Multimap<String, AttributeModifier> multimap = super.getItemAttributeModifiers(slot);

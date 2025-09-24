@@ -2,23 +2,22 @@
   "group": "eee",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "0",
-    "1",
-    "2"
+    "012"
   ],
   "key": {
     "0": {
-      "item": "eee:caca"
+      "item": "eee:rojo_planks"
     },
     "1": {
-      "item": "eee:caca"
+      "item": "eee:rojo_planks"
     },
     "2": {
-      "item": "minecraft:stick"
+      "item": "eee:rojo_planks"
     }
   },
   "result": {
-    "item": "eee:caca_sword",
-    "count": 1
+    "item": "eee:rojo_slab",
+    "data": 0,
+    "count": 6
   }
 }

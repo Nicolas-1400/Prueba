@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "eee:blocks/rojo_log_top",
+    "up": "eee:blocks/rojo_log_top",
+    "north": "eee:blocks/rojo_log_side",
+    "east": "eee:blocks/rojo_log_side",
+    "south": "eee:blocks/rojo_log_side",
+    "west": "eee:blocks/rojo_log_side",
+    "particle": "eee:blocks/rojo_log_top"
+  }
+}

@@ -27,7 +27,7 @@ public class ItemCacaAxe extends ElementsEeeMod.ModElement {
 	@GameRegistry.ObjectHolder("eee:caca_axe")
 	public static final Item block = null;
 	public ItemCacaAxe(ElementsEeeMod instance) {
-		super(instance, 8);
+		super(instance, 11);
 	}
 
 	@Override

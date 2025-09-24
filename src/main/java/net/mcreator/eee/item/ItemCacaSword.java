@@ -29,7 +29,7 @@ public class ItemCacaSword extends ElementsEeeMod.ModElement {
 	@GameRegistry.ObjectHolder("eee:caca_sword")
 	public static final Item block = null;
 	public ItemCacaSword(ElementsEeeMod instance) {
-		super(instance, 9);
+		super(instance, 19);
 	}
 
 	@Override

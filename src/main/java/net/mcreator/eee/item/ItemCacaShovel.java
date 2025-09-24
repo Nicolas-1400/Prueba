@@ -24,7 +24,7 @@ public class ItemCacaShovel extends ElementsEeeMod.ModElement {
 	@GameRegistry.ObjectHolder("eee:caca_shovel")
 	public static final Item block = null;
 	public ItemCacaShovel(ElementsEeeMod instance) {
-		super(instance, 10);
+		super(instance, 12);
 	}
 
 	@Override

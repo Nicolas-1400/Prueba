@@ -46,8 +46,8 @@ public class ItemMessiAxe extends ElementsEeeMod.ModElement {
 				.newHashSet(new Block[]{Blocks.PLANKS, Blocks.BOOKSHELF, Blocks.LOG, Blocks.LOG2, Blocks.CHEST, Blocks.PUMPKIN, Blocks.LIT_PUMPKIN,
 						Blocks.MELON_BLOCK, Blocks.LADDER, Blocks.WOODEN_BUTTON, Blocks.WOODEN_PRESSURE_PLATE});
 		protected ItemToolCustom() {
-			super(EnumHelper.addToolMaterial("MESSI_AXE", 2, 250, 6f, -2f, 14), effective_items_set);
-			this.attackDamage = -2f;
+			super(EnumHelper.addToolMaterial("MESSI_AXE", 2, 250, 6f, 5f, 14), effective_items_set);
+			this.attackDamage = 5f;
 			this.attackSpeed = -3f;
 		}
 
