@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "eee:blocks/arbol",
+    "up": "eee:blocks/hola_ore_block",
+    "north": "eee:blocks/rojo_leaves",
+    "east": "eee:blocks/caca_ore",
+    "south": "eee:blocks/rojo_planks",
+    "west": "eee:blocks/caca_ore_block",
+    "particle": "eee:blocks/arbol"
+  }
+}

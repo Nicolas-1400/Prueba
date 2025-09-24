@@ -1,0 +1,24 @@
+{
+  "group": "eee",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "eee:messi"
+    },
+    "1": {
+      "item": "eee:messi"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "eee:messi_sword",
+    "count": 1
+  }
+}

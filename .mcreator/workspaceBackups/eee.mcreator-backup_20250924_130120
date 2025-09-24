@@ -1,0 +1,192 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CacaBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_block"
+    },
+    {
+      "name": "CacaOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_ore_block_recipe"
+    },
+    {
+      "name": "CacaBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_block_ore_recipe"
+    },
+    {
+      "name": "CacaPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_pickaxe"
+    },
+    {
+      "name": "CacaAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_axe"
+    },
+    {
+      "name": "CacaSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_sword"
+    },
+    {
+      "name": "CacaShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_shovel"
+    },
+    {
+      "name": "CacaHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_hoe"
+    },
+    {
+      "name": "CacaPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_pickaxe_recipe"
+    },
+    {
+      "name": "CacaAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_axe_recipe"
+    },
+    {
+      "name": "CacaSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_sword_recipe"
+    },
+    {
+      "name": "CacaArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_armor_leggings_recipe"
+    },
+    {
+      "name": "HolaBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hola_block_ore_recipe"
+    },
+    {
+      "name": "HolaHoe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hola_hoe"
+    },
+    {
+      "name": "HolaArmor",
+      "type": "armor",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hola_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "Prueba",
+      "type": "logic",
+      "scope": "map",
+      "value": "false"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.hola_armorlegs.name": "Hola Leggings",
+      "item.caca_pickaxe.name": "Caca Pickaxe",
+      "item.caca_sword.name": "Caca Sword",
+      "item.hola_armorbody.name": "Hola Chestplate",
+      "item.hola_armorhelmet.name": "Hola Helmet",
+      "item.hola_hoe.name": "Hola Hoe",
+      "item.caca_hoe.name": "Caca Hoe",
+      "item.caca_axe.name": "Caca Axe",
+      "item.caca_shovel.name": "Caca Shovel",
+      "tile.caca_block.name": "Block of Caca",
+      "item.hola_armorboots.name": "Hola Boots"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "eee",
+    "modName": "eee",
+    "version": "1.0.0",
+    "author": "nicog, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "net.mcreator.eee",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

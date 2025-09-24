@@ -1,0 +1,399 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CacaBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_block"
+    },
+    {
+      "name": "CacaOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_ore_block_recipe"
+    },
+    {
+      "name": "CacaBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_block_ore_recipe"
+    },
+    {
+      "name": "CacaPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_pickaxe"
+    },
+    {
+      "name": "CacaAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_axe"
+    },
+    {
+      "name": "CacaSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_sword"
+    },
+    {
+      "name": "CacaShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_shovel"
+    },
+    {
+      "name": "CacaHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_hoe"
+    },
+    {
+      "name": "CacaPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_pickaxe_recipe"
+    },
+    {
+      "name": "CacaAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_axe_recipe"
+    },
+    {
+      "name": "CacaSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_sword_recipe"
+    },
+    {
+      "name": "CacaArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_armor_leggings_recipe"
+    },
+    {
+      "name": "HolaBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hola_block_ore_recipe"
+    },
+    {
+      "name": "HolaHoe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hola_hoe"
+    },
+    {
+      "name": "HolaArmor",
+      "type": "armor",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hola_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Messi",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi"
+    },
+    {
+      "name": "MessiOre",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_ore"
+    },
+    {
+      "name": "MessiBlock",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_block"
+    },
+    {
+      "name": "MessiOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_ore_block_recipe"
+    },
+    {
+      "name": "MessiBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_block_ore_recipe"
+    },
+    {
+      "name": "MessiOreSmelting",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_ore_smelting"
+    },
+    {
+      "name": "MessiPickaxe",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_pickaxe"
+    },
+    {
+      "name": "MessiAxe",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_axe"
+    },
+    {
+      "name": "MessiSword",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_sword"
+    },
+    {
+      "name": "MessiShovel",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_shovel"
+    },
+    {
+      "name": "MessiHoe",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_hoe"
+    },
+    {
+      "name": "MessiPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_pickaxe_recipe"
+    },
+    {
+      "name": "MessiAxeRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_axe_recipe"
+    },
+    {
+      "name": "MessiSwordRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_sword_recipe"
+    },
+    {
+      "name": "MessiShovelRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_shovel_recipe"
+    },
+    {
+      "name": "MessiHoeRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_hoe_recipe"
+    },
+    {
+      "name": "MessiArmor",
+      "type": "armor",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "MessiArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_armor_helmet_recipe"
+    },
+    {
+      "name": "MessiArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_armor_body_recipe"
+    },
+    {
+      "name": "MessiArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_armor_leggings_recipe"
+    },
+    {
+      "name": "MessiArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messi_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "Prueba",
+      "type": "logic",
+      "scope": "map",
+      "value": "false"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.hola_armorlegs.name": "Hola Leggings",
+      "item.caca_pickaxe.name": "Caca Pickaxe",
+      "item.caca_sword.name": "Caca Sword",
+      "item.hola_armorbody.name": "Hola Chestplate",
+      "item.messi_armorboots.name": "Messi Boots",
+      "item.caca_hoe.name": "Caca Hoe",
+      "item.caca_axe.name": "Caca Axe",
+      "item.messi_shovel.name": "Messi Shovel",
+      "item.messi_pickaxe.name": "Messi Pickaxe",
+      "item.messi_sword.name": "Messi Sword",
+      "item.messi_armorhelmet.name": "Messi Helmet",
+      "item.messi.name": "Messi",
+      "item.messi_armorlegs.name": "Messi Leggings",
+      "item.hola_armorhelmet.name": "Hola Helmet",
+      "item.hola_hoe.name": "Hola Hoe",
+      "item.messi_armorbody.name": "Messi Chestplate",
+      "item.caca_shovel.name": "Caca Shovel",
+      "tile.caca_block.name": "Block of Caca",
+      "tile.messi_ore.name": "Messi Ore",
+      "item.hola_armorboots.name": "Hola Boots",
+      "tile.messi_block.name": "Block of Messi",
+      "item.messi_axe.name": "Messi Axe",
+      "item.messi_hoe.name": "Messi Hoe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "eee",
+    "modName": "eee",
+    "version": "1.0.0",
+    "author": "nicog, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "net.mcreator.eee",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

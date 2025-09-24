@@ -1,0 +1,23 @@
+{
+  "group": "eee",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "eee:rojo_planks"
+    },
+    "1": {
+      "item": "eee:rojo_planks"
+    },
+    "2": {
+      "item": "eee:rojo_planks"
+    }
+  },
+  "result": {
+    "item": "eee:rojo_slab",
+    "data": 0,
+    "count": 6
+  }
+}

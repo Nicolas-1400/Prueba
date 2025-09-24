@@ -1,0 +1,14 @@
+{
+  "group": "eee",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "forgerojo_log"
+    }
+  ],
+  "result": {
+    "item": "eee:rojo_planks",
+    "count": 4
+  }
+}

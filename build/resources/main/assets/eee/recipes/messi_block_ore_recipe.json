@@ -1,0 +1,13 @@
+{
+  "group": "eee",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eee:messi_block"
+    }
+  ],
+  "result": {
+    "item": "eee:messi",
+    "count": 9
+  }
+}

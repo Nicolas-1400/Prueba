@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "eee:blocks/messi_ore_block",
+    "particle": "eee:blocks/messi_ore_block"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "eee:blocks/rojo_planks",
+    "top": "eee:blocks/rojo_planks",
+    "side": "eee:blocks/rojo_planks"
+  }
+}

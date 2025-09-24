@@ -1,0 +1,26 @@
+{
+  "group": "eee",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "eee:rojo_log"
+    },
+    "1": {
+      "item": "eee:rojo_log"
+    },
+    "2": {
+      "item": "eee:rojo_log"
+    },
+    "3": {
+      "item": "eee:rojo_log"
+    }
+  },
+  "result": {
+    "item": "eee:rojo_wood",
+    "count": 3
+  }
+}
