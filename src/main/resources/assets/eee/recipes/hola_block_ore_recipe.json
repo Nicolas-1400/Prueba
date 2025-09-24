@@ -1,0 +1,13 @@
+{
+  "group": "eee",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eee:hola_block"
+    }
+  ],
+  "result": {
+    "item": "eee:hola",
+    "count": 9
+  }
+}

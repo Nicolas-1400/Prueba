@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "eee:blocks/caca_ore_block",
+    "particle": "eee:blocks/caca_ore_block"
+  }
+}
