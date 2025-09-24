@@ -1,0 +1,36 @@
+{
+  "group": "eee",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "eee:messi"
+    },
+    "1": {
+      "item": "eee:messi"
+    },
+    "2": {
+      "item": "eee:messi"
+    },
+    "3": {
+      "item": "eee:messi"
+    },
+    "5": {
+      "item": "eee:messi"
+    },
+    "6": {
+      "item": "eee:messi"
+    },
+    "8": {
+      "item": "eee:messi"
+    }
+  },
+  "result": {
+    "item": "eee:messi_armorlegs",
+    "count": 1
+  }
+}

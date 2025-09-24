@@ -1,0 +1,26 @@
+{
+  "group": "eee",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "eee:messi"
+    },
+    "2": {
+      "item": "eee:messi"
+    },
+    "3": {
+      "item": "eee:messi"
+    },
+    "5": {
+      "item": "eee:messi"
+    }
+  },
+  "result": {
+    "item": "eee:messi_armorboots",
+    "count": 1
+  }
+}
